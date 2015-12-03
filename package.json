@@ -1,0 +1,15 @@
+{
+  "name": "react_webpack",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react_webpack"
+  },
+  "author": "jaison (jaisonka91@gmail.com)",
+  "license": "BSD-2-Clause"
+}
