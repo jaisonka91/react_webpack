@@ -12,4 +12,4 @@ Start with react and webpack. Hello world example.
 
 -> Enter "npm start" in command line.
 
--> Open http://localhost:3040 in browser. Cheers :) 
+-> Open "http://localhost:3040" in browser. Cheers :) 
